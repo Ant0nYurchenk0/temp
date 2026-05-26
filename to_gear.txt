@@ -1,0 +1,1 @@
+generate a render of a rough mesh render of generic simple gear with no texture on a blank black background. the mesh must have genus-zero topology and consist of only one component

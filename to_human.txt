@@ -1,0 +1,1 @@
+generate a render of a rough mesh render of generic human with no texture on a blank black background
